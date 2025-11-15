@@ -1,0 +1,5 @@
+{
+  "name": "Mutual Fund Explorer",
+  "description": "Discover, analyze, and get AI-powered insights on mutual funds. This tool helps you explore various funds, view their performance, and receive AI-generated summaries to make informed investment decisions.",
+  "requestFramePermissions": []
+}
